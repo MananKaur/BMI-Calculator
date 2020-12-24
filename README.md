@@ -25,9 +25,9 @@ The application is implemented using Flutter and Dart.
 - Dart
 
 ## What the app looks like
-<img src="https://raw.githubusercontent.com/MananKaur/BMI-Calculator/master/images/threed_mockup%20(4).png" width="400" height="560"> <img src="" width="400" height="560">
+<img src="https://raw.githubusercontent.com/MananKaur/BMI-Calculator/master/images/threed_mockup%20(4).png" width="400" height="560"> <img src="https://raw.githubusercontent.com/MananKaur/BMI-Calculator/master/images/threed_mockup%20(5).png" width="400" height="560"> 
 
-<img src="https://raw.githubusercontent.com/MananKaur/BMI-Calculator/master/images/threed_mockup%20(4).png" width="400" height="560"> <img src="" width="400" height="560">
+
 
 
 
